@@ -1,6 +1,6 @@
-# Badge-Harvester-4-Roblox
+# Atlas
 
-__Script im making that gets badges in a game still a work in progress__
+__Atlas is still in the works, but I have lots of ideas. Atlas will be a script with op features for many games. It will also contain Universal features that will works for non-supported games.__
 
 # Credits:
 
