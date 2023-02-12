@@ -7,3 +7,5 @@ keys = {
 local blacklist = {
   ["00000000-0000-0000-0000-000000000000"] = true
 }
+
+local AtlasEnabled = true
