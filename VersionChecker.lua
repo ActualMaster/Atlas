@@ -1,5 +1,5 @@
 local Atlas = {}
-local default = Atlas.Version = 'Latest'
+local default = 'Latest'
 
 local function getversion()
   version = shared.Version
